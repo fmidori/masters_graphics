@@ -1,4 +1,5 @@
 ### Jupyter notebooks with graphics from Master's thesis
+Using seaborn, matplotlib 
 ### Examples
 
 
