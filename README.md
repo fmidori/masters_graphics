@@ -17,3 +17,10 @@ Using seaborn, matplotlib
 
 #### Bar graphs 
 ![Ticktoxins_to_AVPs](https://user-images.githubusercontent.com/78968039/191984818-ae12e88c-d808-4232-a066-01c9bc5adc25.png)
+
+#### Cluster map 
+![clustermap_median](https://user-images.githubusercontent.com/78968039/192869146-79023271-6d63-411e-9126-263656282bfb.png)
+
+#### Boxplot
+![ppos_final](https://user-images.githubusercontent.com/78968039/192869171-50c7a3c5-8d73-4d2b-91e5-48c4e7417e70.png)
+
